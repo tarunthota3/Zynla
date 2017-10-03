@@ -1,0 +1,20 @@
+[01 10 2017 06:34:40.918] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 06:44:42.580] [DEBUG] - Mongoose is now disconnected..!
+[01 10 2017 06:52:44.772] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 06:54:32.217] [DEBUG] - Mongoose is now disconnected..!
+[01 10 2017 07:37:56.801] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 08:34:43.596] [DEBUG] - Inside display catagory
+[01 10 2017 10:18:53.727] [DEBUG] - Inside display catagory
+[01 10 2017 10:19:07.975] [DEBUG] - Inside display catagory
+[01 10 2017 10:19:08.406] [DEBUG] - Inside fetch catagory
+[01 10 2017 17:21:36.053] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 17:25:05.858] [DEBUG] - Mongoose is now disconnected..!
+[01 10 2017 17:25:20.048] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 17:30:14.421] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 17:32:07.746] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 18:14:05.754] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 18:16:57.884] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 18:18:20.731] [DEBUG] - Inside display catagory
+[01 10 2017 19:15:57.252] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[01 10 2017 19:40:21.662] [DEBUG] - inside saveToProfile
+[01 10 2017 19:40:21.742] [DEBUG] - Inside get
