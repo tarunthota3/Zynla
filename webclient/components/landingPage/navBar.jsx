@@ -464,7 +464,7 @@ constructor() {
                                  hideOnScroll>
                                  <div>
                                   <Grid >
-                                    <Grid.Column width={5}>
+                                    <Grid.Column width={6}>
                                       <Image src={Cookie.load('profilepicture')}
                                       className='profileImageSize' alt='img'/>
                                     </Grid.Column>
