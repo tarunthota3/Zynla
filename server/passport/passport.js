@@ -109,6 +109,7 @@ function(req, token, refreshToken, profile, done) {
                 // if the user is found, then log them in
                 if (user) {
                             user.loggedinStatus = true;
+                            user.photos = profile.photos[0].value;
                             user.save(function(err1)
                             {
                                 if(err1)
@@ -150,7 +151,6 @@ let fbStrategy = configAuth.facebookAuth;
       };
       /*eslint-enable */
  passport.use(new FacebookStrategy(fbStrategy,
-
     // facebook will send back the token and profile
     function(token, refreshToken, profile, done) {
         // asynchronous
@@ -168,6 +168,8 @@ let fbStrategy = configAuth.facebookAuth;
                 // if the user is found, then log them in
                 if (user) {
                             user.loggedinStatus = true;
+                            user.photos =
+                             'https://graph.facebook.com/' + profile.id + '/picture?width=9999';
                             user.save(function(err1)
                             {
                                 if(err1)
